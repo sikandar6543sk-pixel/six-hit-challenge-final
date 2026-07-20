@@ -1,3 +1,4 @@
+
 name: six_hit_challenge_final
 description: Six Hit Challenge Final
 publish_to: 'none'
@@ -7,5 +8,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_mobile_ads: ^4.0.0
 flutter:
   uses-material-design: true
